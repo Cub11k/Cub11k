@@ -5,9 +5,9 @@ I love programming and now I'm willing to start my career in IT.
 
 ### Checkout some of my projects
 
-[ASF](https://github.com/Cub1tor/ASF)
+[ASF](../../../ASF)
 
-[Chess Ratings](https://github.com/Cub1tor/chess_ratings)
+[Chess Ratings](../../../chess_ratings)
 
 <!--
 **Cub1tor/Cub1tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
