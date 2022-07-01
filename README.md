@@ -5,11 +5,13 @@ I love programming and now I'm willing to start my career in IT.
 
 ### Checkout some of my projects
 
-[ASF](../../../ASF)
-
 [Database](../../../database)
 
 [DiscordPyBot](../../../discordpy-bot)
+
+[ASF](../../../ASF)
+
+[HuffmanZipper](../../../HuffmanZipper)
 
 <!--
 **Cub1tor/Cub1tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
