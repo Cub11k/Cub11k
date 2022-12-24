@@ -7,6 +7,8 @@ I love programming and now I'm willing to start my career in Israeli HighTech.
 
 [Database](../../../database)
 
+[Storages](../../../storages)
+
 [tgBotTemplate](../../../tgBotTemplate)
 
 [DiscordPyBot](../../../discordpy-bot)
