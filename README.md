@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend Software Development
 - 📫 How to reach me: [Telegram](https://t.me/Cub11k), [Instagram](https://instagram.com/kost_ost)
 - ⚡ Fun fact: I'm impressed with Windows 11 in compare with any other Windows after several years on Linux
-- ⚡ One more fun fact: My nickname comes from cube and toroid 
+- ⚡ One more fun fact: My nickname comes from Rubik's cube 
