@@ -10,7 +10,7 @@ I love programming and now I'm willing to start my career in Israeli HighTech.
 
 [pyStorages](../../../pyStorages)
 
-[tgBotTemplate](../../../tgBotTemplate)
+[tgBotTemplate](../../../tgBotTemplate) and [Async tgBotTemplate](../../../async_tgBotTemplate)
 
 [DiscordPyBot](../../../discordpy-bot)
 
