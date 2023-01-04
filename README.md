@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I've been learning C and C++ for over 3 years. School years are not taken into account.
-- 🔭 I’m currently working on telegram bots in python. You can reach out for lessons or freelanca orders.
+- 🔭 I’m currently working on telegram bots in python. You can reach out for lessons or freelance orders.
 - 🌱 I’m currently learning Software Development in Python
 - 📫 How to reach me: [Telegram](https://t.me/Cub11k), [Instagram](https://instagram.com/kost_ost), [FB](https://www.facebook.com/Cub11k)
 - ⚡ Fun fact: I'm impressed with Windows 11 in compare with any other Windows after several years on Linux
