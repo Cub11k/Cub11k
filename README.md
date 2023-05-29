@@ -1,7 +1,7 @@
 ### Hi Github👋!
 
-I've finished two years of Bachelor's program in applied maths and computer science at MSU named after M.V. Lomonosov, which was abruptly interrupted by the crushing events of 2022.
-I love programming and now I'm willing to start my career in Israeli HighTech.
+I've finished two years of Bachelor's program in applied maths and computer science at Lomonosov MSU, which was abruptly interrupted in 2022 due to the war and cancer.
+I love programming, currently work in a startup in the field of automated social netwoerks management and willing to start my career in Israeli HighTech.
 
 
 ### Checkout some of my projects
