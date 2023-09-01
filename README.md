@@ -8,17 +8,17 @@ I love programming, currently work in a startup in the field of automated social
 
 [Database](../../../database)
 
+[CMCFair2023](../../../CMCFair2023)
+
+[HuffmanZipper](../../../HuffmanZipper)
+
 [ConfigTemplate](../../../ConfigTemplate)
 
 [tgBotTemplate](../../../tgBotTemplate) and [async tgBotTemplate](../../../async_tgBotTemplate)
 
-[HuffmanZipper](../../../HuffmanZipper)
-
 [ASF](../../../ASF)
 
 [pyStorages](../../../pyStorages)
-
-[CMCFair2023](../../../CMCFair2023)
 
 <!--
 **Cub1tor/Cub1tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
