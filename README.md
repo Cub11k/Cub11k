@@ -8,7 +8,7 @@ I love programming, currently work in a startup in the field of automated social
 
 [Database](../../../database)
 
-/[ConfigTemplate](../../../ConfigTemplate)
+[ConfigTemplate](../../../ConfigTemplate)
 
 [tgBotTemplate](../../../tgBotTemplate) and [async tgBotTemplate](../../../async_tgBotTemplate)
 
