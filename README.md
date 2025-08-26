@@ -6,6 +6,8 @@ I'm now studying Computer Sciense at Bar Ilan University, I love programming and
 
 ### Checkout some of my projects
 
+[BIU Notes website](https://cub11k-biu-notes.vercel.app/) | [BIU Notes PDFs](../../../BIU-NOTES-PDF)
+
 [Database](../../../database)
 
 [CMCFair2023](../../../CMCFair2023)
